@@ -7,6 +7,7 @@ import pytz
 import re
 from calendar import month_abbr
 
+#edit this part according to your needs
 EVENT_NAME = "My Meeting"
 EVENT_WEEKDAYS = ["Thu"] #["Mon", "Wed", "Fri"]
 OUTPUT = "my_meetings.ics"

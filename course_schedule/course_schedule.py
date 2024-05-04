@@ -8,7 +8,7 @@ import pytz
 import re
 from calendar import month_abbr
 
-#change this part
+#edit this part according to your needs
 COURSE_NAME = "CS 798"
 COURSE_TIME = "10:00AM-11:20AM"
 INPUT_FILE = "schedule.txt"
