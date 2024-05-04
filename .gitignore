@@ -1,3 +1,6 @@
+#ignore all .ics files generated
+*.ics
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
